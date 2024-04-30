@@ -1,0 +1,55 @@
+﻿@page "/Dep/Edit/{id:int}"
+@using Day4WASMConsumer.Services
+@inject IServices<Department> DeptService
+@inject NavigationManager NavManager
+
+<h3>Edit Department</h3>
+
+@if (DeptObj != null)
+{
+    <EditForm Model="DeptObj" OnValidSubmit="SaveDepartment">
+        <DataAnnotationsValidator></DataAnnotationsValidator>
+        <ValidationSummary></ValidationSummary>
+
+        <div class="form-group">
+            <label for="departmentName">Name</label>
+            <InputText id="departmentName" class="form-control" @bind-Value="DeptObj.Name"></InputText>
+        </div>
+        <div class="form-group">
+            <label for="departmentLocation">Location</label>
+            <InputText id="departmentLocation" class="form-control" @bind-Value="DeptObj.Location"></InputText>
+        </div>
+        <div class="form-group">
+            <label for="departmentManager">Manager</label>
+            <InputNumber id="departmentManager" class="form-control" @bind-Value="DeptObj.Manager"></InputNumber>
+        </div>
+        <div class="form-group">
+            <label for="departmentDescription">Description</label>
+            <InputText id="departmentDescription" class="form-control" @bind-Value="DeptObj.Description"></InputText>
+        </div>
+
+        <button type="submit" class="btn btn-success">Save</button>
+    </EditForm>
+}
+else
+{
+    <h2>Wait ... or invalid id</h2>
+}
+
+@code {
+    [Parameter]
+    public int id { get; set; }
+
+    public Department DeptObj { get; set; }
+
+    protected override async Task OnInitializedAsync()
+    {
+        DeptObj = await DeptService.GetByID(id);
+    }
+
+    async Task SaveDepartment()
+    {
+        await DeptService.Update(DeptObj.Id, DeptObj);
+        NavManager.NavigateTo("/Departments");
+    }
+}

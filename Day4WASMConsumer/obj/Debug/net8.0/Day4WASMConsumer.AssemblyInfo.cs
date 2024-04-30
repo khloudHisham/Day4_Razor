@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Day4WASMConsumer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+145a212195d206e1155ec93669af6b3b0b577b76")]
 [assembly: System.Reflection.AssemblyProductAttribute("Day4WASMConsumer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Day4WASMConsumer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

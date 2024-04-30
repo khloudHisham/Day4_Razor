@@ -3,40 +3,12 @@
   "WorkspaceRootPath": "D:\\ITI INTAKE\\Blazor\\Day4WASMConsumer\\Day4WASMConsumer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E7F944F4-E525-4964-909E-3E4C1D52A3AA}|Day4WASMConsumer\\Day4WASMConsumer.csproj|d:\\iti intake\\blazor\\day4wasmconsumer\\day4wasmconsumer\\day4wasmconsumer\\pages\\departmentcomponent\\editdepartmentcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E7F944F4-E525-4964-909E-3E4C1D52A3AA}|Day4WASMConsumer\\Day4WASMConsumer.csproj|solutionrelative:day4wasmconsumer\\pages\\departmentcomponent\\editdepartmentcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E7F944F4-E525-4964-909E-3E4C1D52A3AA}|Day4WASMConsumer\\Day4WASMConsumer.csproj|d:\\iti intake\\blazor\\day4wasmconsumer\\day4wasmconsumer\\day4wasmconsumer\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7F944F4-E525-4964-909E-3E4C1D52A3AA}|Day4WASMConsumer\\Day4WASMConsumer.csproj|solutionrelative:day4wasmconsumer\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E7F944F4-E525-4964-909E-3E4C1D52A3AA}|Day4WASMConsumer\\Day4WASMConsumer.csproj|d:\\iti intake\\blazor\\day4wasmconsumer\\day4wasmconsumer\\day4wasmconsumer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7F944F4-E525-4964-909E-3E4C1D52A3AA}|Day4WASMConsumer\\Day4WASMConsumer.csproj|solutionrelative:day4wasmconsumer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E7F944F4-E525-4964-909E-3E4C1D52A3AA}|Day4WASMConsumer\\Day4WASMConsumer.csproj|d:\\iti intake\\blazor\\day4wasmconsumer\\day4wasmconsumer\\day4wasmconsumer\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7F944F4-E525-4964-909E-3E4C1D52A3AA}|Day4WASMConsumer\\Day4WASMConsumer.csproj|solutionrelative:day4wasmconsumer\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E7F944F4-E525-4964-909E-3E4C1D52A3AA}|Day4WASMConsumer\\Day4WASMConsumer.csproj|d:\\iti intake\\blazor\\day4wasmconsumer\\day4wasmconsumer\\day4wasmconsumer\\pages\\departmentcomponent\\editcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7F944F4-E525-4964-909E-3E4C1D52A3AA}|Day4WASMConsumer\\Day4WASMConsumer.csproj|solutionrelative:day4wasmconsumer\\pages\\departmentcomponent\\editcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E7F944F4-E525-4964-909E-3E4C1D52A3AA}|Day4WASMConsumer\\Day4WASMConsumer.csproj|d:\\iti intake\\blazor\\day4wasmconsumer\\day4wasmconsumer\\day4wasmconsumer\\pages\\departmentcomponent\\deptscomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E7F944F4-E525-4964-909E-3E4C1D52A3AA}|Day4WASMConsumer\\Day4WASMConsumer.csproj|solutionrelative:day4wasmconsumer\\pages\\departmentcomponent\\deptscomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E7F944F4-E525-4964-909E-3E4C1D52A3AA}|Day4WASMConsumer\\Day4WASMConsumer.csproj|d:\\iti intake\\blazor\\day4wasmconsumer\\day4wasmconsumer\\day4wasmconsumer\\services\\deptservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7F944F4-E525-4964-909E-3E4C1D52A3AA}|Day4WASMConsumer\\Day4WASMConsumer.csproj|solutionrelative:day4wasmconsumer\\services\\deptservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E7F944F4-E525-4964-909E-3E4C1D52A3AA}|Day4WASMConsumer\\Day4WASMConsumer.csproj|d:\\iti intake\\blazor\\day4wasmconsumer\\day4wasmconsumer\\day4wasmconsumer\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E7F944F4-E525-4964-909E-3E4C1D52A3AA}|Day4WASMConsumer\\Day4WASMConsumer.csproj|solutionrelative:day4wasmconsumer\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E7F944F4-E525-4964-909E-3E4C1D52A3AA}|Day4WASMConsumer\\Day4WASMConsumer.csproj|d:\\iti intake\\blazor\\day4wasmconsumer\\day4wasmconsumer\\day4wasmconsumer\\pages\\departmentcomponent\\detailscompoent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E7F944F4-E525-4964-909E-3E4C1D52A3AA}|Day4WASMConsumer\\Day4WASMConsumer.csproj|solutionrelative:day4wasmconsumer\\pages\\departmentcomponent\\detailscompoent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E7F944F4-E525-4964-909E-3E4C1D52A3AA}|Day4WASMConsumer\\Day4WASMConsumer.csproj|d:\\iti intake\\blazor\\day4wasmconsumer\\day4wasmconsumer\\day4wasmconsumer\\services\\iservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7F944F4-E525-4964-909E-3E4C1D52A3AA}|Day4WASMConsumer\\Day4WASMConsumer.csproj|solutionrelative:day4wasmconsumer\\services\\iservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,112 +30,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "GlobalUsing.cs",
-              "DocumentMoniker": "D:\\ITI INTAKE\\Blazor\\Day4WASMConsumer\\Day4WASMConsumer\\Day4WASMConsumer\\GlobalUsing.cs",
-              "RelativeDocumentMoniker": "Day4WASMConsumer\\GlobalUsing.cs",
-              "ToolTip": "D:\\ITI INTAKE\\Blazor\\Day4WASMConsumer\\Day4WASMConsumer\\Day4WASMConsumer\\GlobalUsing.cs",
-              "RelativeToolTip": "Day4WASMConsumer\\GlobalUsing.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T16:38:26.403Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "EditdepartmentComponent.razor",
-              "DocumentMoniker": "D:\\ITI INTAKE\\Blazor\\Day4WASMConsumer\\Day4WASMConsumer\\Day4WASMConsumer\\Pages\\DepartmentComponent\\EditdepartmentComponent.razor",
-              "RelativeDocumentMoniker": "Day4WASMConsumer\\Pages\\DepartmentComponent\\EditdepartmentComponent.razor",
-              "ToolTip": "D:\\ITI INTAKE\\Blazor\\Day4WASMConsumer\\Day4WASMConsumer\\Day4WASMConsumer\\Pages\\DepartmentComponent\\EditdepartmentComponent.razor",
-              "RelativeToolTip": "Day4WASMConsumer\\Pages\\DepartmentComponent\\EditdepartmentComponent.razor",
-              "ViewState": "AQIAABEAAAAAAAAAAADwvx4AAAAhAAAA",
+              "Title": "EditComponent.razor",
+              "DocumentMoniker": "D:\\ITI INTAKE\\Blazor\\Day4WASMConsumer\\Day4WASMConsumer\\Day4WASMConsumer\\Pages\\DepartmentComponent\\EditComponent.razor",
+              "RelativeDocumentMoniker": "Day4WASMConsumer\\Pages\\DepartmentComponent\\EditComponent.razor",
+              "ToolTip": "D:\\ITI INTAKE\\Blazor\\Day4WASMConsumer\\Day4WASMConsumer\\Day4WASMConsumer\\Pages\\DepartmentComponent\\EditComponent.razor*",
+              "RelativeToolTip": "Day4WASMConsumer\\Pages\\DepartmentComponent\\EditComponent.razor*",
+              "ViewState": "AQIAABEAAAAAAAAAAADwvzcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-30T16:31:25.83Z",
+              "WhenOpened": "2024-04-30T17:27:03.283Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Department.cs",
-              "DocumentMoniker": "D:\\ITI INTAKE\\Blazor\\Day4WASMConsumer\\Day4WASMConsumer\\Day4WASMConsumer\\Models\\Department.cs",
-              "RelativeDocumentMoniker": "Day4WASMConsumer\\Models\\Department.cs",
-              "ToolTip": "D:\\ITI INTAKE\\Blazor\\Day4WASMConsumer\\Day4WASMConsumer\\Day4WASMConsumer\\Models\\Department.cs",
-              "RelativeToolTip": "Day4WASMConsumer\\Models\\Department.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T12:10:07.535Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\ITI INTAKE\\Blazor\\Day4WASMConsumer\\Day4WASMConsumer\\Day4WASMConsumer\\Program.cs",
-              "RelativeDocumentMoniker": "Day4WASMConsumer\\Program.cs",
-              "ToolTip": "D:\\ITI INTAKE\\Blazor\\Day4WASMConsumer\\Day4WASMConsumer\\Day4WASMConsumer\\Program.cs",
-              "RelativeToolTip": "Day4WASMConsumer\\Program.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAuwBAAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T12:00:34.233Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "NavMenu.razor",
-              "DocumentMoniker": "D:\\ITI INTAKE\\Blazor\\Day4WASMConsumer\\Day4WASMConsumer\\Day4WASMConsumer\\Layout\\NavMenu.razor",
-              "RelativeDocumentMoniker": "Day4WASMConsumer\\Layout\\NavMenu.razor",
-              "ToolTip": "D:\\ITI INTAKE\\Blazor\\Day4WASMConsumer\\Day4WASMConsumer\\Day4WASMConsumer\\Layout\\NavMenu.razor",
-              "RelativeToolTip": "Day4WASMConsumer\\Layout\\NavMenu.razor",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAYwB4AAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-30T11:42:49.228Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DeptService.cs",
-              "DocumentMoniker": "D:\\ITI INTAKE\\Blazor\\Day4WASMConsumer\\Day4WASMConsumer\\Day4WASMConsumer\\Services\\DeptService.cs",
-              "RelativeDocumentMoniker": "Day4WASMConsumer\\Services\\DeptService.cs",
-              "ToolTip": "D:\\ITI INTAKE\\Blazor\\Day4WASMConsumer\\Day4WASMConsumer\\Day4WASMConsumer\\Services\\DeptService.cs",
-              "RelativeToolTip": "Day4WASMConsumer\\Services\\DeptService.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAAABkAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T11:40:55.618Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "DEtailsCompoent.razor",
-              "DocumentMoniker": "D:\\ITI INTAKE\\Blazor\\Day4WASMConsumer\\Day4WASMConsumer\\Day4WASMConsumer\\Pages\\DepartmentComponent\\DEtailsCompoent.razor",
-              "RelativeDocumentMoniker": "Day4WASMConsumer\\Pages\\DepartmentComponent\\DEtailsCompoent.razor",
-              "ToolTip": "D:\\ITI INTAKE\\Blazor\\Day4WASMConsumer\\Day4WASMConsumer\\Day4WASMConsumer\\Pages\\DepartmentComponent\\DEtailsCompoent.razor",
-              "RelativeToolTip": "Day4WASMConsumer\\Pages\\DepartmentComponent\\DEtailsCompoent.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-30T11:38:55.893Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "DeptsComponent.razor",
               "DocumentMoniker": "D:\\ITI INTAKE\\Blazor\\Day4WASMConsumer\\Day4WASMConsumer\\Day4WASMConsumer\\Pages\\DepartmentComponent\\DeptsComponent.razor",
               "RelativeDocumentMoniker": "Day4WASMConsumer\\Pages\\DepartmentComponent\\DeptsComponent.razor",
               "ToolTip": "D:\\ITI INTAKE\\Blazor\\Day4WASMConsumer\\Day4WASMConsumer\\Day4WASMConsumer\\Pages\\DepartmentComponent\\DeptsComponent.razor",
               "RelativeToolTip": "Day4WASMConsumer\\Pages\\DepartmentComponent\\DeptsComponent.razor",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAAACAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-30T11:38:24.235Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IServices.cs",
-              "DocumentMoniker": "D:\\ITI INTAKE\\Blazor\\Day4WASMConsumer\\Day4WASMConsumer\\Day4WASMConsumer\\Services\\IServices.cs",
-              "RelativeDocumentMoniker": "Day4WASMConsumer\\Services\\IServices.cs",
-              "ToolTip": "D:\\ITI INTAKE\\Blazor\\Day4WASMConsumer\\Day4WASMConsumer\\Day4WASMConsumer\\Services\\IServices.cs",
-              "RelativeToolTip": "Day4WASMConsumer\\Services\\IServices.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T11:19:49.367Z"
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-30T17:26:59.846Z",
+              "EditorCaption": ""
             }
           ]
         },

@@ -2068,3 +2068,4 @@ D:\ITI INTAKE\Blazor\Day4WASMConsumer\Day4WASMConsumer\Day4WASMConsumer\obj\Debu
 D:\ITI INTAKE\Blazor\Day4WASMConsumer\Day4WASMConsumer\Day4WASMConsumer\obj\Debug\net8.0\refint\Day4WASMConsumer.dll
 D:\ITI INTAKE\Blazor\Day4WASMConsumer\Day4WASMConsumer\Day4WASMConsumer\obj\Debug\net8.0\Day4WASMConsumer.pdb
 D:\ITI INTAKE\Blazor\Day4WASMConsumer\Day4WASMConsumer\Day4WASMConsumer\obj\Debug\net8.0\ref\Day4WASMConsumer.dll
+D:\ITI INTAKE\Blazor\Day4WASMConsumer\Day4WASMConsumer\Day4WASMConsumer\obj\Debug\net8.0\Day4WASMConsumer.sourcelink.json
