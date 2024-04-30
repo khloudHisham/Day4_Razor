@@ -1,0 +1,81 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\ITI INTAKE\\Blazor\\Day4WASMConsumer\\Day4WASMConsumer\\Day4WASMConsumer\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "D:\\ITI INTAKE\\Blazor\\Day4WASMConsumer\\Day4WASMConsumer\\Day4WASMConsumer\\obj\\Debug\\net8.0\\compressed\\r7fduaompd.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "D:\\ITI INTAKE\\Blazor\\Day4WASMConsumer\\Day4WASMConsumer\\Day4WASMConsumer\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Day4WASMConsumer.styles.css",
+      "PackagePath": "staticwebassets\\Day4WASMConsumer.styles.css"
+    },
+    {
+      "Id": "D:\\ITI INTAKE\\Blazor\\Day4WASMConsumer\\Day4WASMConsumer\\Day4WASMConsumer\\obj\\Debug\\net8.0\\service-worker-assets.js",
+      "PackagePath": "staticwebassets\\service-worker-assets.js"
+    },
+    {
+      "Id": "D:\\ITI INTAKE\\Blazor\\Day4WASMConsumer\\Day4WASMConsumer\\Day4WASMConsumer\\obj\\Debug\\net8.0\\service-worker\\service-worker.published.js",
+      "PackagePath": "staticwebassets\\service-worker.js"
+    },
+    {
+      "Id": "D:\\ITI INTAKE\\Blazor\\Day4WASMConsumer\\Day4WASMConsumer\\Day4WASMConsumer\\wwwroot\\appsettings.json",
+      "PackagePath": "staticwebassets\\appsettings.json"
+    },
+    {
+      "Id": "D:\\ITI INTAKE\\Blazor\\Day4WASMConsumer\\Day4WASMConsumer\\Day4WASMConsumer\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "D:\\ITI INTAKE\\Blazor\\Day4WASMConsumer\\Day4WASMConsumer\\Day4WASMConsumer\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\ITI INTAKE\\Blazor\\Day4WASMConsumer\\Day4WASMConsumer\\Day4WASMConsumer\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\ITI INTAKE\\Blazor\\Day4WASMConsumer\\Day4WASMConsumer\\Day4WASMConsumer\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "D:\\ITI INTAKE\\Blazor\\Day4WASMConsumer\\Day4WASMConsumer\\Day4WASMConsumer\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "D:\\ITI INTAKE\\Blazor\\Day4WASMConsumer\\Day4WASMConsumer\\Day4WASMConsumer\\wwwroot\\icon-512.png",
+      "PackagePath": "staticwebassets\\icon-512.png"
+    },
+    {
+      "Id": "D:\\ITI INTAKE\\Blazor\\Day4WASMConsumer\\Day4WASMConsumer\\Day4WASMConsumer\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "D:\\ITI INTAKE\\Blazor\\Day4WASMConsumer\\Day4WASMConsumer\\Day4WASMConsumer\\wwwroot\\manifest.webmanifest",
+      "PackagePath": "staticwebassets\\manifest.webmanifest"
+    },
+    {
+      "Id": "D:\\ITI INTAKE\\Blazor\\Day4WASMConsumer\\Day4WASMConsumer\\Day4WASMConsumer\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Day4WASMConsumer.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Day4WASMConsumer.props",
+      "PackagePath": "build\\Day4WASMConsumer.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Day4WASMConsumer.props",
+      "PackagePath": "buildMultiTargeting\\Day4WASMConsumer.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Day4WASMConsumer.props",
+      "PackagePath": "buildTransitive\\Day4WASMConsumer.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

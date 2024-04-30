@@ -1,0 +1,32 @@
+﻿@page "/Depts"
+<h3>DeptsComponent</h3>
+@if (DepList != null)
+{
+    <table class="table table-bordered table-hover">
+        @foreach (var item in DepList)
+        {
+        <tr>
+            <td>@item.Name</td>
+                <td><a href="/Depts/Details/@item.Id">Details</a></td>
+                <td><a href="/Dep/Edit/@item.Id">Edit</a></td>
+        </tr>
+    }
+    </table>
+}
+else
+{
+    <h2>Wait ...</h2>
+}
+
+@code {
+    public List<Department>? DepList { get; set; }
+
+    [Inject]
+    public IServices<Department> DeptService { get; set; }
+
+    protected override async Task OnInitializedAsync()
+    {
+        DepList = await DeptService.GetAll();
+        base.OnInitializedAsync();
+    }
+}
